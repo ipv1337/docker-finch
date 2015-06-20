@@ -1,0 +1,1 @@
+function docker() { /usr/bin/docker -H=localhost:2375 $@; }
